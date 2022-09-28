@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="center">
-  Welcome to David Brocheros's profile!
+  Welcome to David Brochero's profile!
   <img src="https://cdn.discordapp.com/emojis/853990630095060992.gif?size=48&quality=lossless&size=32" width="28">
 </h1>
 
