@@ -1,7 +1,6 @@
 <!-- Heading -->
 <h1 align="center">
-  Welcome to David Brochero's profile!
-  <img src="https://cdn.discordapp.com/emojis/853990630095060992.gif?size=48&quality=lossless&size=32" width="28">
+  Welcome to David Brochero's profile
 </h1>
 
 <!-- Typing SVG -->
@@ -14,7 +13,7 @@
   <img src="https://img.shields.io/badge/TERM-ALACRITTY-%23e42f00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BROWSER-FIREFOX-%2300acff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EDITOR-CODIUM-%2359933d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SHELL-XONSH-%234a9bc8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHELL-FISH-%234a9bc8?style=for-the-badge"/>
 </p>
 
 ## ⚡ My stats
@@ -26,9 +25,4 @@
 
 ## 📈 My contribution graph
 <img src="https://activity-graph.herokuapp.com/graph?username=D-Brox&hide_border=true&theme=react-dark"/>
-
-## 🏆 My trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=D-Brox&theme=nord&margin-w=15&margin-h=15&column=6" alt="Trophy" />
-</p>
 
