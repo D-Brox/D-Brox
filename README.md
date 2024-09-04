@@ -5,12 +5,12 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=99C794&size=22&center=true&vCenter=true&width=500&height=45&lines=Also+known+as+D+Brox;23+years+old+engineering+student;Linux+%26+FOSS+enthusiast;Nice+to+meet+you!"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=99C794&size=22&center=true&vCenter=true&width=500&height=45&lines=Also+known+as+D+Brox;2+years+old+engineering+student;Linux+%26+FOSS+enthusiast;Nice+to+meet+you!"></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Pop!__OS-informational?&style=for-the-badge&color=46b3c1"/>
-  <img src="https://img.shields.io/badge/TERM-ALACRITTY-%23e42f00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DE-COSMIC-%23e42f00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BROWSER-FIREFOX-%2300acff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EDITOR-CODIUM-%2359933d?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SHELL-FISH-%234a9bc8?style=for-the-badge"/>
@@ -24,5 +24,5 @@
 </p>
 
 ## 📈 My contribution graph
-<img src="https://activity-graph.herokuapp.com/graph?username=D-Brox&hide_border=true&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Brox&hide_border=true&bg_color=002b36&title_color=268bd2&point=b58900&line=859900&color=268bd2&days=45"/>
 
