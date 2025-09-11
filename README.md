@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 src="https://github-readme-stats.vercel.app/api?username=D-Brox&rank_icon=github&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 src="https://github-readme-stats.vercel.app/api?username=D-Brox&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Brox&layout=compact&langs_count=8&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/>
 </p>
