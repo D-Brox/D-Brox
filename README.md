@@ -16,7 +16,16 @@
   <img src="https://img.shields.io/badge/SHELL-BASH-%234a9bc8?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 src="https://github-readme-stats.vercel.app/api?username=D-Brox&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Brox&layout=compact&langs_count=8&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/>
+<p align="center">    
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-Brox&theme=blueberry"/>
+</p>
+
+<p align="center">    
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D-Brox&theme=blueberry&exclude=MDX"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D-Brox&theme=blueberry"/>
+</p>
+
+<p align="center">    
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-Brox&theme=blueberry"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D-Brox&theme=blueberry&utcOffset=-3"/>
 </p>
