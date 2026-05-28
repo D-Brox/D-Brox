@@ -17,15 +17,15 @@
 </p>
 
 <p align="center">    
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-Brox&theme=blueberry"/>
+  <img height=200 src="./profile-summary-card-output/blueberry/0-profile-details.svg"/>
 </p>
 
 <p align="center">    
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D-Brox&theme=blueberry&exclude=MDX"/>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D-Brox&theme=blueberry"/>
+  <img height=200 src="./profile-summary-card-output/blueberry/2-most-commit-language.svg"/>
+  <img height=200 src="./profile-summary-card-output/blueberry/1-repos-per-language.svg"/>
 </p>
 
 <p align="center">    
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-Brox&theme=blueberry"/>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D-Brox&theme=blueberry&utcOffset=-3"/>
+  <img height=200 src="./profile-summary-card-output/blueberry/3-stats.svg"/>
+  <img height=200 src="./profile-summary-card-output/blueberry/4-productive-time.svg"/>
 </p>
