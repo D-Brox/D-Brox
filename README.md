@@ -10,10 +10,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Pop!__OS-informational?&style=for-the-badge&color=46b3c1"/>
-  <img src="https://img.shields.io/badge/DE-COSMIC-%236296BE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DE-COSMIC-%23ffad00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BROWSER-ZEN-%23f76f53?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDITOR-CODIUM-%2359933d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SHELL-BASH-%234a9bc8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDITOR-ZED-%23154adc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHELL-BASH-%23a32d2a?style=for-the-badge"/>
 </p>
 
 <p align="center">    
